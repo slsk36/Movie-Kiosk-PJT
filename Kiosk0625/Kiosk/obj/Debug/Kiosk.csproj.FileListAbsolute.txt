@@ -1,0 +1,35 @@
+D:\2020c\Project\Kiosk\Kiosk\bin\Debug\Kiosk.exe.config
+D:\2020c\Project\Kiosk\Kiosk\bin\Debug\Kiosk.exe
+D:\2020c\Project\Kiosk\Kiosk\bin\Debug\Kiosk.pdb
+D:\2020c\Project\Kiosk\Kiosk\obj\Debug\Kiosk.SubMenu.resources
+D:\2020c\Project\Kiosk\Kiosk\obj\Debug\Kiosk.Main.resources
+D:\2020c\Project\Kiosk\Kiosk\obj\Debug\Kiosk.Properties.Resources.resources
+D:\2020c\Project\Kiosk\Kiosk\obj\Debug\Kiosk.SubMenu3.resources
+D:\2020c\Project\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.GenerateResource.Cache
+D:\2020c\Project\Kiosk\Kiosk\obj\Debug\Kiosk.exe
+D:\2020c\Project\Kiosk\Kiosk\obj\Debug\Kiosk.pdb
+D:\practice\C#\Kiosk\Kiosk\bin\Debug\Kiosk.exe.config
+D:\practice\C#\Kiosk\Kiosk\bin\Debug\Kiosk.exe
+D:\practice\C#\Kiosk\Kiosk\bin\Debug\Kiosk.pdb
+D:\practice\C#\Kiosk\Kiosk\obj\Debug\Kiosk.csprojAssemblyReference.cache
+D:\practice\C#\Kiosk\Kiosk\obj\Debug\Kiosk.SubMenu.resources
+D:\practice\C#\Kiosk\Kiosk\obj\Debug\Kiosk.Main.resources
+D:\practice\C#\Kiosk\Kiosk\obj\Debug\Kiosk.Properties.Resources.resources
+D:\practice\C#\Kiosk\Kiosk\obj\Debug\Kiosk.SubMenu3.resources
+D:\practice\C#\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.GenerateResource.cache
+D:\practice\C#\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.CoreCompileInputs.cache
+D:\practice\C#\Kiosk\Kiosk\obj\Debug\Kiosk.exe
+D:\practice\C#\Kiosk\Kiosk\obj\Debug\Kiosk.pdb
+D:\2020c\Project\Kiosk (2)\Kiosk\bin\Debug\Kiosk.exe.config
+D:\2020c\Project\Kiosk (2)\Kiosk\obj\Debug\Kiosk.exe
+D:\2020c\Project\Kiosk (2)\Kiosk\obj\Debug\Kiosk.pdb
+D:\2020c\Project\Kiosk (2)\Kiosk\bin\Debug\Kiosk.exe
+D:\2020c\Project\Kiosk (2)\Kiosk\bin\Debug\Kiosk.pdb
+D:\2020c\Project\Kiosk (2)\Kiosk\obj\Debug\Kiosk.csprojResolveAssemblyReference.cache
+D:\2020c\Project\Kiosk (2)\Kiosk\obj\Debug\Kiosk.SubMenu.resources
+D:\2020c\Project\Kiosk (2)\Kiosk\obj\Debug\Kiosk.Main.resources
+D:\2020c\Project\Kiosk (2)\Kiosk\obj\Debug\Kiosk.Properties.Resources.resources
+D:\2020c\Project\Kiosk (2)\Kiosk\obj\Debug\Kiosk.SubMenu3.resources
+D:\2020c\Project\Kiosk (2)\Kiosk\obj\Debug\Kiosk.csproj.GenerateResource.Cache
+D:\2020c\Project\Kiosk (2)\Kiosk\bin\Debug\kiosk_nn1.exe
+D:\2020c\Project\Kiosk (2)\Kiosk\bin\Debug\kiosk_nn1.pdb

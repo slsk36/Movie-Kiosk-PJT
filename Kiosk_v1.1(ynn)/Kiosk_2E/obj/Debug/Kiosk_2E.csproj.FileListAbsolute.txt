@@ -1,0 +1,98 @@
+C:\2020 C#\Kiosk_2E\Kiosk_2E\bin\Debug\Kiosk_2E.exe.config
+C:\2020 C#\Kiosk_2E\Kiosk_2E\bin\Debug\Kiosk_2E.exe
+C:\2020 C#\Kiosk_2E\Kiosk_2E\bin\Debug\Kiosk_2E.pdb
+C:\2020 C#\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.csprojAssemblyReference.cache
+C:\2020 C#\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.MainForm.resources
+C:\2020 C#\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.Properties.Resources.resources
+C:\2020 C#\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.csproj.GenerateResource.cache
+C:\2020 C#\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.csproj.CoreCompileInputs.cache
+C:\2020 C#\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.exe
+C:\2020 C#\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.pdb
+C:\2020 C#\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.uc0_Home.resources
+C:\2020 C#\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.uc1_movieList.resources
+C:\2020 C#\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.uc2_movie1Round.resources
+C:\2020 C#\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.uc3_roundPeople.resources
+C:\2020 C#\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.uc4_Seat.resources
+C:\2020 C#\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.uc5_addDis.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\bin\Debug\Kiosk_2E.exe.config
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.exe
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.pdb
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\bin\Debug\Kiosk_2E.exe
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\bin\Debug\Kiosk_2E.pdb
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.csprojResolveAssemblyReference.cache
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.uc0_Home.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.MainForm.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.uc1_movieList.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.Properties.Resources.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.uc2_movie1Round.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.uc3_roundPeople.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.uc4_Seat.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.uc5_addDis.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.csproj.GenerateResource.Cache
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.uc5w_selectTel.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.uc6_payment.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.uc7_Card.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E\Kiosk_2E\obj\Debug\Kiosk_2E.uc7_Kakao.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\bin\Debug\Kiosk_2E.exe.config
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\bin\Debug\Kiosk_2E.exe
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\bin\Debug\Kiosk_2E.pdb
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.csprojResolveAssemblyReference.cache
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.uc0_Home.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.MainForm.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.uc1_movieList.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.Properties.Resources.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.uc2_movie1Round.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.uc3_roundPeople.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.uc4_Seat.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.uc5w_selectTel.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.uc5_addDis.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.uc6_payment.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.uc7_Card.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.uc7_Kakao.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.csproj.GenerateResource.Cache
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.exe
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.pdb
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_2E_finished\Kiosk_2E\obj\Debug\Kiosk_2E.uc8_Complete.resources
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\bin\Debug\Kiosk_2E.exe.config
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.exe
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.pdb
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\bin\Debug\Kiosk_2E.exe
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\bin\Debug\Kiosk_2E.pdb
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.csprojResolveAssemblyReference.cache
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.uc0_Home.resources
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.MainForm.resources
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.uc1_movieList.resources
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.Properties.Resources.resources
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.uc2_movie1Round.resources
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.uc3_roundPeople.resources
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.uc4_Seat.resources
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.uc5w_selectTel.resources
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.uc5_addDis.resources
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.uc6_payment.resources
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.uc7_Card.resources
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.uc7_Kakao.resources
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.uc8_Complete.resources
+C:\Users\slsk3\카카오톡\고동진 (2)\Kiosk_2E\obj\Debug\Kiosk_2E.csproj.GenerateResource.Cache
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\bin\Debug\Kiosk_2E.exe.config
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.exe
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.pdb
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\bin\Debug\Kiosk_2E.exe
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\bin\Debug\Kiosk_2E.pdb
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.csprojResolveAssemblyReference.cache
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.uc0_Home.resources
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.MainForm.resources
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.uc1_movieList.resources
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.Properties.Resources.resources
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.uc2_movie1Round.resources
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.uc3_roundPeople.resources
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.uc4_Seat.resources
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.uc5w_selectTel.resources
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.uc5_addDis.resources
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.uc6_payment.resources
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.uc7_Card.resources
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.uc7_Kakao.resources
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.uc8_Complete.resources
+C:\Users\305\Documents\카카오톡 받은 파일\유니나\Kiosk_2E\obj\Debug\Kiosk_2E.csproj.GenerateResource.Cache
+C:\Users\305\Documents\Movie-Kiosk-PJT\Kiosk_v1.1(ynn)\Kiosk_2E\bin\Debug\Kiosk_2E.exe.config
+C:\Users\305\Documents\Movie-Kiosk-PJT\Kiosk_v1.1(ynn)\Kiosk_2E\obj\Debug\Kiosk_2E.exe
+C:\Users\305\Documents\Movie-Kiosk-PJT\Kiosk_v1.1(ynn)\Kiosk_2E\obj\Debug\Kiosk_2E.pdb

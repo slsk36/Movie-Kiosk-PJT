@@ -79,16 +79,14 @@ namespace Kiosk_2E
                     break;
 
                 case 2:     //uc2->uc1 영화리스트로 돌아감
-                    //★이미지초기화 code 실패로 인해 바텀패널의 goback버튼 비활성화함★
-                    //MainForm.mchoice.BringToFront();
-                    //GoBack = null; //goBack 버튼 안보이게
-                    ////MainForm.m1r.pbMovie.Image = null;
+                    MainForm.mchoice.BringToFront();
+                    MainForm.Instance.pnlbtmContainer.BringToFront(); //바텀 패널 앞으로 나오게하기
                     page -= 1;  
                     break;
 
                 case 3: //uc4->uc3 인원수 선택으로
                     MainForm.Instance.pnlContainer.Controls["uc2_movie1Round"].BringToFront();
-                    MainForm.Instance.GoBack = null; //★메인 패널의 뒤로가기 이미지 숨기기★
+                    MainForm.Instance.pnlbtmContainer.SendToBack(); //바텀 패널 뒤로 숨기기
                     page -= 1;
                     break;
 
@@ -157,6 +155,12 @@ namespace Kiosk_2E
             uc3_roundPeople.rpInstance.InfoT_Y = "";
             MainForm.pmt.disDetail.Text = "";
 
+            //★0630 추가 uc2에서 선택한 정보 모두 초기화
+            MainForm.m1r.Date = "상영일자"; //상영일자 초기화
+            MainForm.m1r.Time = "시간선택"; //시간선택 초기화
+            MainForm.m1r.Movieposter = null; //영화 포스터 초기화
+            MainForm.m1r.Title = ""; //영화제목 초기화
+            MainForm.m1r.LeftSeat = "";  //남은 좌석 글자 초기화
 
             //좌석 선택 및 표시 초기화
             st.seatUnchk();

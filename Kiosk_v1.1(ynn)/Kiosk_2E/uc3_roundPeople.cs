@@ -23,7 +23,7 @@ namespace Kiosk_2E
         public uc3_roundPeople()
         {
             InitializeComponent();
-            MainForm.Instance.GoBack = Properties.Resources.turn_back_50px; //★메인 패널의 뒤로가기 보여주기★
+            
         }
 
         static uc3_roundPeople rp_obj;           // 객체명 선언(?)
@@ -46,6 +46,10 @@ namespace Kiosk_2E
             if (MainForm.adult == 0 && MainForm.youth == 0) //성인 청소년 둘다 0명이면
             {
                 MessageBox.Show("인원을 선택하세요");
+            }
+            else if ((int.Parse(InfoT)+int.Parse(InfoT_Y)) > int.Parse(MainForm.m1r.LeftSeat)) { 
+
+                MessageBox.Show("선택할 수 있는 인원을 초과하였습니다");
             }
             else
             {

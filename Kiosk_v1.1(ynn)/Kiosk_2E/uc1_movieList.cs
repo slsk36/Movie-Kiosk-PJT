@@ -22,15 +22,17 @@ namespace Kiosk_2E
 
         private void movie1_Click(object sender, EventArgs e)
         {
+            //if 문 없으면 개체 인스턴스 오류나고 페이지 안넘어감★★★★★★★★★★★★★★
             if (!MainForm.Instance.pnlContainer.Controls.ContainsKey("uc2_movie1Round"))
             {
-                MainForm.m1r.Dock = DockStyle.Fill;
+                //MainForm.m1r.Dock = DockStyle.Fill;
                 MainForm.Instance.pnlContainer.Controls.Add(MainForm.m1r);
+                //MainForm.Instance.pnlbtmContainer.SendToBack(); //바텀 패널 뒤로 숨기기
             }
             MainForm.Instance.pnlContainer.Controls["uc2_movie1Round"].BringToFront();
             MainForm.m1r.Movieposter = movie1.BackgroundImage; //이미지 전달하기
             MainForm.m1r.Title = title1.Text;                 //영화명 전달하기
-            MainForm.Instance.GoBack = null; //★메인 패널의 뒤로가기 이미지 숨기기★
+            MainForm.Instance.pnlbtmContainer.SendToBack(); //바텀 패널 뒤로 숨기기
             MainForm.page += 1;
         }
 
@@ -38,13 +40,13 @@ namespace Kiosk_2E
         {
             if (!MainForm.Instance.pnlContainer.Controls.ContainsKey("uc2_movie1Round"))
             {
-                MainForm.m1r.Dock = DockStyle.Fill;
+                //MainForm.m1r.Dock = DockStyle.Fill;
                 MainForm.Instance.pnlContainer.Controls.Add(MainForm.m1r);
             }
-            MainForm.Instance.pnlContainer.Controls["uc2_movie1Round"].BringToFront();
+                        MainForm.Instance.pnlContainer.Controls["uc2_movie1Round"].BringToFront();
             MainForm.m1r.Movieposter = movie2.BackgroundImage; //이미지 전달하기
             MainForm.m1r.Title = title2.Text;                 //영화명 전달하기
-            MainForm.Instance.GoBack = null; //★메인 패널의 뒤로가기 없앰★
+            MainForm.Instance.pnlbtmContainer.SendToBack(); //바텀 패널 뒤로 숨기기
             MainForm.page += 1;
         }
 
@@ -58,7 +60,7 @@ namespace Kiosk_2E
             MainForm.Instance.pnlContainer.Controls["uc2_movie1Round"].BringToFront();
             MainForm.m1r.Movieposter = movie3.BackgroundImage; //이미지 전달하기
             MainForm.m1r.Title = title3.Text;                 //영화명 전달하기
-            MainForm.Instance.GoBack = null; //★메인 패널의 뒤로가기 없앰★
+            MainForm.Instance.pnlbtmContainer.SendToBack(); //바텀 패널 뒤로 숨기기
             MainForm.page += 1;
         }
 
@@ -72,7 +74,7 @@ namespace Kiosk_2E
             MainForm.Instance.pnlContainer.Controls["uc2_movie1Round"].BringToFront();
             MainForm.m1r.Movieposter = movie4.BackgroundImage; //이미지 전달하기
             MainForm.m1r.Title = label4.Text;                 //영화명 전달하기
-            MainForm.Instance.GoBack = null; //★메인 패널의 뒤로가기 없앰★
+            MainForm.Instance.pnlbtmContainer.SendToBack(); //바텀 패널 뒤로 숨기기
             MainForm.page += 1;
         }
     }

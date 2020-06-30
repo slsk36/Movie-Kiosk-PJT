@@ -27,6 +27,7 @@ namespace Kiosk_2E
         public string Title { get { return movieTitle.Text; } set { movieTitle.Text = value; } } //영화제목
         public string Date { get { return cbDate.Text; } set { cbDate.Text = value; } } //날짜
         public string Time { get { return cbRound.Text; } set { cbRound.Text = value; } } //시간
+        public string LeftSeat { get { return leftStNm.Text; } set { leftStNm.Text = value; } } //남은 좌석수
         //----------------------------------------------
        
         //날짜 콤보박스 채우기
@@ -50,7 +51,7 @@ namespace Kiosk_2E
         }
 
         //날짜를 클릭했을때 시간 선택
-        private void cbDate_SelectedIndexChanged(object sender, EventArgs e)
+        public void cbDate_SelectedIndexChanged(object sender, EventArgs e)
         {
             cbRound.Items.Clear();
             con.Open();
@@ -71,7 +72,7 @@ namespace Kiosk_2E
 
 
         //시간 클릭하면 해당영화의 날짜에 시간에 해당하는 예매가능한 좌석수 표시
-        private void cbRound_SelectedIndexChanged(object sender, EventArgs e)
+        public void cbRound_SelectedIndexChanged(object sender, EventArgs e)
         {
 
             con.Open();
@@ -98,7 +99,7 @@ namespace Kiosk_2E
             {
                 MessageBox.Show("날짜와 시간을 선택하세요");
             }
-            else if (leftStNm.Text == "0")
+            else if (int.Parse(leftStNm.Text) <= 0) //★버그수정
             {
                 MessageBox.Show("매진되었습니다");
             }
@@ -126,7 +127,7 @@ namespace Kiosk_2E
             pbMovie.Image = null;
             leftStNm.Text = "";  //남은 좌석 글자 초기화
             Title = null;  //영화이름 초기화
-            MainForm.Instance.GoBack = Properties.Resources.turn_back_50px; //★메인 패널의 뒤로가기 보여주기★
+            MainForm.Instance.pnlbtmContainer.BringToFront(); //바텀 패널 앞으로 나오게하기
         }
 
         

@@ -10,13 +10,17 @@ using System.Windows.Forms;
 
 namespace Kiosk_2E
 {
-    //참조 : 요일, 시간
 
     public partial class uc0_Home : UserControl
     {
         public uc0_Home()
         {
             InitializeComponent();
+            timer1.Interval = 1000;
+            timer2.Interval = 1000;
+            timer1.Start();
+            timer2.Start();
+            
         }
 
         private void buyTicket_Click(object sender, EventArgs e)
@@ -29,6 +33,16 @@ namespace Kiosk_2E
             MainForm.mchoice.BringToFront();
 
             MainForm.page += 1;
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            nowTime.Text = DateTime.Now.ToLongTimeString();
+        }
+
+        private void timer2_Tick(object sender, EventArgs e)
+        {
+            today.Text = DateTime.Now.ToLongDateString();
         }
     }
 }

@@ -28,15 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(uc0_Home));
             this.topAd = new System.Windows.Forms.Panel();
             this.bottomAd = new System.Windows.Forms.Panel();
             this.homeMenu = new System.Windows.Forms.Panel();
-            this.bookedPrint = new System.Windows.Forms.Label();
-            this.buyTicket = new System.Windows.Forms.Label();
-            this.today = new System.Windows.Forms.Label();
-            this.branch = new System.Windows.Forms.Label();
             this.nowTime = new System.Windows.Forms.Label();
+            this.branch = new System.Windows.Forms.Label();
+            this.today = new System.Windows.Forms.Label();
+            this.buyTicket = new System.Windows.Forms.Label();
+            this.bookedPrint = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.timer2 = new System.Windows.Forms.Timer(this.components);
             this.homeMenu.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -70,21 +73,41 @@
             this.homeMenu.Size = new System.Drawing.Size(384, 281);
             this.homeMenu.TabIndex = 2;
             // 
-            // bookedPrint
+            // nowTime
             // 
-            this.bookedPrint.BackColor = System.Drawing.Color.DarkSlateBlue;
-            this.bookedPrint.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.bookedPrint.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.bookedPrint.ForeColor = System.Drawing.Color.White;
-            this.bookedPrint.Image = ((System.Drawing.Image)(resources.GetObject("bookedPrint.Image")));
-            this.bookedPrint.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.bookedPrint.Location = new System.Drawing.Point(94, 119);
-            this.bookedPrint.Name = "bookedPrint";
-            this.bookedPrint.Padding = new System.Windows.Forms.Padding(0, 10, 0, 10);
-            this.bookedPrint.Size = new System.Drawing.Size(90, 100);
-            this.bookedPrint.TabIndex = 1;
-            this.bookedPrint.Text = "예매 티켓 출력";
-            this.bookedPrint.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.nowTime.AutoSize = true;
+            this.nowTime.BackColor = System.Drawing.Color.Transparent;
+            this.nowTime.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.nowTime.ForeColor = System.Drawing.SystemColors.Control;
+            this.nowTime.Location = new System.Drawing.Point(109, 74);
+            this.nowTime.Name = "nowTime";
+            this.nowTime.Size = new System.Drawing.Size(75, 24);
+            this.nowTime.TabIndex = 5;
+            this.nowTime.Text = "17:56";
+            // 
+            // branch
+            // 
+            this.branch.AutoSize = true;
+            this.branch.BackColor = System.Drawing.Color.Transparent;
+            this.branch.Font = new System.Drawing.Font("굴림", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.branch.ForeColor = System.Drawing.SystemColors.Control;
+            this.branch.Location = new System.Drawing.Point(258, 46);
+            this.branch.Name = "branch";
+            this.branch.Size = new System.Drawing.Size(38, 11);
+            this.branch.TabIndex = 4;
+            this.branch.Text = "안산점";
+            // 
+            // today
+            // 
+            this.today.AutoSize = true;
+            this.today.BackColor = System.Drawing.Color.Transparent;
+            this.today.Font = new System.Drawing.Font("굴림", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.today.ForeColor = System.Drawing.SystemColors.Control;
+            this.today.Location = new System.Drawing.Point(92, 46);
+            this.today.Name = "today";
+            this.today.Size = new System.Drawing.Size(82, 11);
+            this.today.TabIndex = 3;
+            this.today.Text = "2020.06.24 (수)";
             // 
             // buyTicket
             // 
@@ -103,43 +126,33 @@
             this.buyTicket.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.buyTicket.Click += new System.EventHandler(this.buyTicket_Click);
             // 
-            // today
+            // bookedPrint
             // 
-            this.today.AutoSize = true;
-            this.today.BackColor = System.Drawing.Color.Transparent;
-            this.today.Font = new System.Drawing.Font("굴림", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.today.ForeColor = System.Drawing.SystemColors.Control;
-            this.today.Location = new System.Drawing.Point(125, 46);
-            this.today.Name = "today";
-            this.today.Size = new System.Drawing.Size(82, 11);
-            this.today.TabIndex = 3;
-            this.today.Text = "2020.06.24 (수)";
+            this.bookedPrint.BackColor = System.Drawing.Color.DarkSlateBlue;
+            this.bookedPrint.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.bookedPrint.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.bookedPrint.ForeColor = System.Drawing.Color.White;
+            this.bookedPrint.Image = ((System.Drawing.Image)(resources.GetObject("bookedPrint.Image")));
+            this.bookedPrint.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.bookedPrint.Location = new System.Drawing.Point(94, 119);
+            this.bookedPrint.Name = "bookedPrint";
+            this.bookedPrint.Padding = new System.Windows.Forms.Padding(0, 10, 0, 10);
+            this.bookedPrint.Size = new System.Drawing.Size(90, 100);
+            this.bookedPrint.TabIndex = 1;
+            this.bookedPrint.Text = "예매 티켓 출력";
+            this.bookedPrint.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             // 
-            // branch
+            // timer1
             // 
-            this.branch.AutoSize = true;
-            this.branch.BackColor = System.Drawing.Color.Transparent;
-            this.branch.Font = new System.Drawing.Font("굴림", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.branch.ForeColor = System.Drawing.SystemColors.Control;
-            this.branch.Location = new System.Drawing.Point(213, 46);
-            this.branch.Name = "branch";
-            this.branch.Size = new System.Drawing.Size(38, 11);
-            this.branch.TabIndex = 4;
-            this.branch.Text = "안산점";
+            this.timer1.Interval = 1000;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // nowTime
+            // timer2
             // 
-            this.nowTime.AutoSize = true;
-            this.nowTime.BackColor = System.Drawing.Color.Transparent;
-            this.nowTime.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.nowTime.ForeColor = System.Drawing.SystemColors.Control;
-            this.nowTime.Location = new System.Drawing.Point(157, 77);
-            this.nowTime.Name = "nowTime";
-            this.nowTime.Size = new System.Drawing.Size(75, 24);
-            this.nowTime.TabIndex = 5;
-            this.nowTime.Text = "17:56";
+            this.timer2.Interval = 1000;
+            this.timer2.Tick += new System.EventHandler(this.timer2_Tick);
             // 
-            // Home
+            // uc0_Home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -147,7 +160,7 @@
             this.Controls.Add(this.homeMenu);
             this.Controls.Add(this.bottomAd);
             this.Controls.Add(this.topAd);
-            this.Name = "Home";
+            this.Name = "uc0_Home";
             this.Size = new System.Drawing.Size(384, 681);
             this.homeMenu.ResumeLayout(false);
             this.homeMenu.PerformLayout();
@@ -165,5 +178,7 @@
         private System.Windows.Forms.Label branch;
         private System.Windows.Forms.Label today;
         private System.Windows.Forms.Label nowTime;
+        private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Timer timer2;
     }
 }

@@ -25,16 +25,13 @@ namespace Kiosk_2E
             con.Open();
 
             DataTable dt = new DataTable();
-            //
-            string sql = "update roundPlan set seat=seat-" + (MainForm.adult + MainForm.youth)
+            string sql = "update roundPlan set seat=seat-" + MainForm.person
                 + " where movie='" + MainForm.m1r.Title
                 + "' and time='" + MainForm.m1r.Time
                 + "' and date='" + MainForm.m1r.Date + "'";
-            //string sql = "update roundPlan set seat=seat-1 where movie='토르' and time='10:00' and date='2020-07-10'";
             SqlCommand cmd = new SqlCommand(sql, con);
             cmd.ExecuteNonQuery();
             SqlDataAdapter da = new SqlDataAdapter(cmd);
-            //da.Fill(dt); //이거쓰면 쿼리 두번실행됨!!!!!!!!!
 
             con.Close();
 

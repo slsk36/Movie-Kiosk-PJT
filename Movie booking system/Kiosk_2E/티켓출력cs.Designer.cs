@@ -32,6 +32,7 @@
             this.panelTop = new System.Windows.Forms.Panel();
             this.doneTitle = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.doneGoHome = new System.Windows.Forms.Button();
             this.enter = new System.Windows.Forms.Button();
             this.button11 = new System.Windows.Forms.Button();
             this.del = new System.Windows.Forms.Button();
@@ -46,7 +47,6 @@
             this.button1 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.input = new System.Windows.Forms.TextBox();
-            this.doneGoHome = new System.Windows.Forms.Button();
             this.panelTop.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
@@ -101,6 +101,18 @@
             this.panel2.Size = new System.Drawing.Size(439, 785);
             this.panel2.TabIndex = 21;
             // 
+            // doneGoHome
+            // 
+            this.doneGoHome.Font = new System.Drawing.Font("맑은 고딕", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.doneGoHome.Location = new System.Drawing.Point(147, 607);
+            this.doneGoHome.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.doneGoHome.Name = "doneGoHome";
+            this.doneGoHome.Size = new System.Drawing.Size(151, 76);
+            this.doneGoHome.TabIndex = 30;
+            this.doneGoHome.Text = "처음으로";
+            this.doneGoHome.UseVisualStyleBackColor = true;
+            this.doneGoHome.Click += new System.EventHandler(this.doneGoHome_Click);
+            // 
             // enter
             // 
             this.enter.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("enter.BackgroundImage")));
@@ -130,6 +142,7 @@
             this.button11.TabIndex = 28;
             this.button11.Tag = "0";
             this.button11.UseVisualStyleBackColor = true;
+            this.button11.Click += new System.EventHandler(this.num_click);
             // 
             // del
             // 
@@ -144,6 +157,7 @@
             this.del.Size = new System.Drawing.Size(76, 78);
             this.del.TabIndex = 27;
             this.del.UseVisualStyleBackColor = true;
+            this.del.Click += new System.EventHandler(this.del_Click);
             // 
             // button7
             // 
@@ -159,6 +173,7 @@
             this.button7.TabIndex = 26;
             this.button7.Tag = "9";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.num_click);
             // 
             // button8
             // 
@@ -174,6 +189,7 @@
             this.button8.TabIndex = 25;
             this.button8.Tag = "8";
             this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.num_click);
             // 
             // button9
             // 
@@ -189,6 +205,7 @@
             this.button9.TabIndex = 24;
             this.button9.Tag = "7";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.num_click);
             // 
             // button4
             // 
@@ -204,6 +221,7 @@
             this.button4.TabIndex = 23;
             this.button4.Tag = "6";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.num_click);
             // 
             // button5
             // 
@@ -219,6 +237,7 @@
             this.button5.TabIndex = 22;
             this.button5.Tag = "5";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.num_click);
             // 
             // button6
             // 
@@ -235,6 +254,7 @@
             this.button6.TabIndex = 21;
             this.button6.Tag = "4";
             this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.num_click);
             // 
             // button3
             // 
@@ -250,6 +270,7 @@
             this.button3.TabIndex = 20;
             this.button3.Tag = "3";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.num_click);
             // 
             // button2
             // 
@@ -265,6 +286,7 @@
             this.button2.TabIndex = 19;
             this.button2.Tag = "2";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.num_click);
             // 
             // button1
             // 
@@ -274,12 +296,14 @@
             this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button1.FlatAppearance.BorderSize = 0;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(7)))));
             this.button1.Location = new System.Drawing.Point(80, 207);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(92, 88);
             this.button1.TabIndex = 18;
             this.button1.Tag = "1";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.num_click);
             // 
             // label2
             // 
@@ -302,18 +326,6 @@
             this.input.Size = new System.Drawing.Size(339, 46);
             this.input.TabIndex = 4;
             this.input.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // doneGoHome
-            // 
-            this.doneGoHome.Font = new System.Drawing.Font("맑은 고딕", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.doneGoHome.Location = new System.Drawing.Point(147, 607);
-            this.doneGoHome.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.doneGoHome.Name = "doneGoHome";
-            this.doneGoHome.Size = new System.Drawing.Size(151, 76);
-            this.doneGoHome.TabIndex = 30;
-            this.doneGoHome.Text = "처음으로";
-            this.doneGoHome.UseVisualStyleBackColor = true;
-            this.doneGoHome.Click += new System.EventHandler(this.doneGoHome_Click);
             // 
             // 티켓출력cs
             // 

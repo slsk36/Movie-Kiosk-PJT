@@ -294,11 +294,9 @@ C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\obj\Debu
 C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\obj\Debug\Kiosk_2E.pdb
 C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\bin\Debug\Kiosk_2E.exe
 C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\bin\Debug\Kiosk_2E.pdb
-C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\bin\Debug\MaterialSkin.dll
 C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\bin\Debug\WpfAnimatedGif.dll
 C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\bin\Debug\WpfAnimatedGif.pdb
 C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\bin\Debug\WpfAnimatedGif.xml
-C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\obj\Debug\Kiosk_2E.csprojResolveAssemblyReference.cache
 C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\obj\Debug\Kiosk_2E.uc0_Home.resources
 C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\obj\Debug\Kiosk_2E.MainForm.resources
 C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\obj\Debug\Kiosk_2E.uc1_movieList.resources
@@ -315,3 +313,9 @@ C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\obj\Debu
 C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\obj\Debug\Kiosk_2E.티켓출력cs.resources
 C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\obj\Debug\Kiosk_2E.환불.resources
 C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\obj\Debug\Kiosk_2E.csproj.GenerateResource.Cache
+C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\obj\Debug\Kiosk_2E.TrustInfo.xml
+C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\bin\Debug\Kiosk_2E.exe.manifest
+C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\bin\Debug\Kiosk_2E.application
+C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\obj\Debug\Kiosk_2E.exe.manifest
+C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\obj\Debug\Kiosk_2E.application
+C:\Users\slsk3\문서\GIT\Movie-Kiosk-PJT\Movie booking system\Kiosk_2E\obj\Debug\Kiosk_2E.csprojResolveAssemblyReference.cache

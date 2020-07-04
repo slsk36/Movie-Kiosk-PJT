@@ -80,6 +80,7 @@ namespace Kiosk_2E
         //취소하기
         private void back_Click(object sender, EventArgs e)
         {
+            MainForm.st.NotBook();
             MainForm.st.ssReset();
             MainForm.person += MainForm.st.ticket;
             MainForm.st.seatUnchk(); //선택표시 초기화

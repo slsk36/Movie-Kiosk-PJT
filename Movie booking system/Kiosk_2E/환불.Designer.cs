@@ -52,14 +52,17 @@
             // 
             // doneGoHome
             // 
+            this.doneGoHome.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.doneGoHome.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.doneGoHome.Font = new System.Drawing.Font("맑은 고딕", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.doneGoHome.ForeColor = System.Drawing.Color.White;
             this.doneGoHome.Location = new System.Drawing.Point(155, 671);
             this.doneGoHome.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.doneGoHome.Name = "doneGoHome";
             this.doneGoHome.Size = new System.Drawing.Size(151, 76);
             this.doneGoHome.TabIndex = 22;
             this.doneGoHome.Text = "처음으로";
-            this.doneGoHome.UseVisualStyleBackColor = true;
+            this.doneGoHome.UseVisualStyleBackColor = false;
             this.doneGoHome.Click += new System.EventHandler(this.doneGoHome_Click);
             // 
             // label1

@@ -79,7 +79,7 @@ namespace Kiosk_2E
         private void doneGoHome_Click(object sender, EventArgs e)
         {
             booked_end();//uc4 라벨에 적힌대로 예약완료상태로 바꿔라
-
+            MainForm.cancle.NotMath();  //티켓넘버조회해서 리스트박스에 넣기
             MainForm.Instance.pnlContainer.Controls.Add(MainForm.hm);
             MainForm.Instance.pnlContainer.Controls["uc0_Home"].BringToFront();
             this.SendToBack();

@@ -99,9 +99,40 @@ namespace Kiosk_2E
             con.Close();
         }
 
+        public string a;
+        public string b;
+        public string c;
+
+        public void seatDateTime()
+        {
+            MainForm.m1r.payback();
+            con.Open();
+            string sql = "select seat_num,date,time from seatInfo where ticket_num='" + textBox1.Text + "'";
+            //입력한 숫자와 일치하는 자리번호와 날짜와 시간을 조회해라
+            SqlCommand cmd = new SqlCommand(sql, con);
+            cmd.ExecuteNonQuery();
+            DataTable dt = new DataTable();
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            da.Fill(dt);
+            string result = "";
+
+            foreach (DataRow row in dt.Rows)
+            {
+                foreach (var input_items in row["seat_num"].ToString())
+                {
+                    result += string.Format("{0}", input_items);
+                }
+                a = result;
+                b = row["date"].ToString();
+                c = row["time"].ToString();
+            }
+            con.Close();
+        }
+
         //입력버튼
         private void input_Click(object sender, EventArgs e) //입력버튼
         {
+            seatDateTime();
             if (listBox1.Items.Contains(textBox1.Text))
             {
                 MainForm.m1r.payback();
@@ -115,8 +146,9 @@ namespace Kiosk_2E
                 da.Fill(dt);
                 con.Close();
                 textBox1.Text = "";
-                MessageBox.Show("환불이 완료 되었습니다.");
-            }else { MessageBox.Show("티켓넘버가 잘못되었습니다"); }
+                MessageBox.Show($"{b} {c}시 좌석: {a} 환불완료 되었습니다.");
+            }
+            else { MessageBox.Show("티켓넘버가 잘못되었습니다"); }
                
             }
         }

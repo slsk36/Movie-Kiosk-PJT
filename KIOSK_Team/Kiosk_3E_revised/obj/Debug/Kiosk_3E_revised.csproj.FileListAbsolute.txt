@@ -1,0 +1,213 @@
+C:\2020 C#\Kiosk_3E_revised\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe.config
+C:\2020 C#\Kiosk_3E_revised\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe
+C:\2020 C#\Kiosk_3E_revised\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.pdb
+C:\2020 C#\Kiosk_3E_revised\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csprojAssemblyReference.cache
+C:\2020 C#\Kiosk_3E_revised\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.MainForm.resources
+C:\2020 C#\Kiosk_3E_revised\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Properties.Resources.resources
+C:\2020 C#\Kiosk_3E_revised\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.GenerateResource.cache
+C:\2020 C#\Kiosk_3E_revised\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.CoreCompileInputs.cache
+C:\2020 C#\Kiosk_3E_revised\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.exe
+C:\2020 C#\Kiosk_3E_revised\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.pdb
+C:\2020 C#\Kiosk_3E_revised\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieList.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe.config
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.exe
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.pdb
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csprojResolveAssemblyReference.cache
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieList.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.GenerateResource.Cache
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.pdb
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Properties.Resources.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc2_movieRound.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Main.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_0703\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe.config
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_0703\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_0703\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.pdb
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_0703\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csprojAssemblyReference.cache
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_0703\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Main.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_0703\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Properties.Resources.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_0703\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieList.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_0703\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc2_movieRound.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_0703\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.GenerateResource.cache
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_0703\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.CoreCompileInputs.cache
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_0703\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.exe
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_0703\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.pdb
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_mP\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe.config
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_mP\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_mP\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.pdb
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_mP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csprojAssemblyReference.cache
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_mP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Main.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_mP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Properties.Resources.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_mP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieCatalog.quarterCard.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_mP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieList.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_mP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc2_movieRound.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_mP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.GenerateResource.cache
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_mP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.CoreCompileInputs.cache
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_mP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.exe
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_mP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.pdb
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe.config
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.pdb
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csprojAssemblyReference.cache
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Main.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Properties.Resources.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieCatalog.quarterCard.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieList.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc2_movieRound.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.GenerateResource.cache
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.CoreCompileInputs.cache
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.exe
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.pdb
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc3_roundPeople.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc4_Seat.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w_selectTel.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5_addDis.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc6_payment.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc7_card.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc7_kakao.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc8_Complete.resources
+C:\Users\Jaemoon\Desktop\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_bookedPrint.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe.config
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.exe
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.pdb
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.pdb
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csprojResolveAssemblyReference.cache
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Main.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Properties.Resources.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_bookedPrint.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieCatalog.quarterCard.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieList.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc2_movieRound.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc3_roundPeople.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc4_seat.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5_addDis.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc8_Complete.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.GenerateResource.Cache
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w1_selectTel.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w3_card.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w3_kakao.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_revised_DJ_oP\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w2_selectPay.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe.config
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.exe
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.pdb
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.pdb
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csprojResolveAssemblyReference.cache
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Main.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Properties.Resources.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieCatalog.quarterCard.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieList.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc2_movieRound.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc3_roundPeople.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc4_seat.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w1_selectTel.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5_addDis.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w2_selectPay.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w3_card.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w3_kakao.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc6_Complete.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.GenerateResource.Cache
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\bin\Debug\QRCoder.dll
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_bookedSearch.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieCatalog.columnBar.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe.config
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.exe
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.pdb
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.pdb
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\bin\Debug\QRCoder.dll
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csprojResolveAssemblyReference.cache
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Main.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Properties.Resources.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieCatalog.columnBar.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieCatalog.quarterCard.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieList.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc2_movieRound.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc3_roundPeople.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc4_seat.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w1_selectTel.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5_addDis.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w2_selectPay.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w3_card.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w3_kakao.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc6_complete.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.GenerateResource.Cache
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_bookedPrint.resources
+C:\Users\305\Documents\카카오톡 받은 파일\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_catalog.prepaidBar.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe.config
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.pdb
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\bin\Debug\QRCoder.dll
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csprojAssemblyReference.cache
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Main.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Properties.Resources.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_bookedPrint.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieCatalog.columnBar.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_catalog.prepaidBar.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieCatalog.quarterCard.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieList.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc2_movieRound.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc3_roundPeople.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc4_seat.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w1_selectTel.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5_addDis.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w2_selectPay.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w3_card.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w3_kakao.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc6_complete.resources
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.GenerateResource.cache
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.CoreCompileInputs.cache
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.CopyComplete
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.exe
+D:\practice\C#\Kiosk_3E_stable_0707\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.pdb
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe.config
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.pdb
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\bin\Debug\QRCoder.dll
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csprojAssemblyReference.cache
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Main.resources
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Properties.Resources.resources
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_bookedPrint.resources
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieCatalog.columnBar.resources
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_catalog.prepaidBar.resources
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieCatalog.quarterCard.resources
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieList.resources
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc2_movieRound.resources
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc3_roundPeople.resources
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc4_seat.resources
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w1_selectTel.resources
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5_addDis.resources
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w2_selectPay.resources
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w3_card.resources
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w3_kakao.resources
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc6_complete.resources
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.GenerateResource.cache
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.CoreCompileInputs.cache
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.CopyComplete
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.exe
+C:\Users\Jaemoon\Desktop\Kiosk_나만_없어_고양2\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.pdb
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe.config
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.exe
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.pdb
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csprojResolveAssemblyReference.cache
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Main.resources
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_bookedPrint.resources
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieCatalog.columnBar.resources
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_catalog.prepaidBar.resources
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieCatalog.quarterCard.resources
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc1_movieList.resources
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc2_movieRound.resources
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc3_roundPeople.resources
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc4_seat.resources
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w1_selectTel.resources
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5_addDis.resources
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w2_selectPay.resources
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w3_card.resources
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc5w3_kakao.resources
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.uc6_complete.resources
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.csproj.GenerateResource.Cache
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.exe
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\bin\Debug\Kiosk_3E_revised.pdb
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\bin\Debug\QRCoder.dll
+C:\Users\305\Desktop\KIOSK\Kiosk_3E_revised\obj\Debug\Kiosk_3E_revised.Properties.Resources.resources
